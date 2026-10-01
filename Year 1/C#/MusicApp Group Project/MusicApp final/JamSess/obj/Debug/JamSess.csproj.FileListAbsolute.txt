@@ -1,0 +1,76 @@
+C:\Users\OEM\source\repos\MusicApp\MusicApp\JamSess\bin\Debug\JamSess.exe.config
+C:\Users\OEM\source\repos\MusicApp\MusicApp\JamSess\bin\Debug\JamSess.exe
+C:\Users\OEM\source\repos\MusicApp\MusicApp\JamSess\bin\Debug\JamSess.pdb
+C:\Users\OEM\source\repos\MusicApp\MusicApp\JamSess\bin\Debug\Interop.WMPLib.dll
+C:\Users\OEM\source\repos\MusicApp\MusicApp\JamSess\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\OEM\source\repos\MusicApp\MusicApp\JamSess\obj\Debug\JamSess.csproj.AssemblyReference.cache
+C:\Users\OEM\source\repos\MusicApp\MusicApp\JamSess\obj\Debug\Interop.WMPLib.dll
+C:\Users\OEM\source\repos\MusicApp\MusicApp\JamSess\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\OEM\source\repos\MusicApp\MusicApp\JamSess\obj\Debug\JamSess.csproj.ResolveComReference.cache
+C:\Users\OEM\source\repos\MusicApp\MusicApp\JamSess\obj\Debug\JamSess.frmLoginPage.resources
+C:\Users\OEM\source\repos\MusicApp\MusicApp\JamSess\obj\Debug\JamSess.frmHomePage.resources
+C:\Users\OEM\source\repos\MusicApp\MusicApp\JamSess\obj\Debug\JamSess.frmPlaylistPage.resources
+C:\Users\OEM\source\repos\MusicApp\MusicApp\JamSess\obj\Debug\JamSess.frmSignUpPage.resources
+C:\Users\OEM\source\repos\MusicApp\MusicApp\JamSess\obj\Debug\JamSess.Properties.Resources.resources
+C:\Users\OEM\source\repos\MusicApp\MusicApp\JamSess\obj\Debug\JamSess.frmUploadSong.resources
+C:\Users\OEM\source\repos\MusicApp\MusicApp\JamSess\obj\Debug\JamSess.csproj.GenerateResource.cache
+C:\Users\OEM\source\repos\MusicApp\MusicApp\JamSess\obj\Debug\JamSess.csproj.CoreCompileInputs.cache
+C:\Users\OEM\source\repos\MusicApp\MusicApp\JamSess\obj\Debug\JamSess.exe
+C:\Users\OEM\source\repos\MusicApp\MusicApp\JamSess\obj\Debug\JamSess.pdb
+C:\Users\LENOVO\Videos\MusicApp final\MusicApp final\JamSess\bin\Debug\JamSess.exe.config
+C:\Users\LENOVO\Videos\MusicApp final\MusicApp final\JamSess\bin\Debug\JamSess.exe
+C:\Users\LENOVO\Videos\MusicApp final\MusicApp final\JamSess\bin\Debug\JamSess.pdb
+C:\Users\LENOVO\Videos\MusicApp final\MusicApp final\JamSess\bin\Debug\Interop.WMPLib.dll
+C:\Users\LENOVO\Videos\MusicApp final\MusicApp final\JamSess\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\LENOVO\Videos\MusicApp final\MusicApp final\JamSess\obj\Debug\JamSess.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Videos\MusicApp final\MusicApp final\JamSess\obj\Debug\Interop.WMPLib.dll
+C:\Users\LENOVO\Videos\MusicApp final\MusicApp final\JamSess\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\LENOVO\Videos\MusicApp final\MusicApp final\JamSess\obj\Debug\JamSess.csproj.ResolveComReference.cache
+C:\Users\LENOVO\Videos\MusicApp final\MusicApp final\JamSess\obj\Debug\JamSess.frmLoginPage.resources
+C:\Users\LENOVO\Videos\MusicApp final\MusicApp final\JamSess\obj\Debug\JamSess.frmHomePage.resources
+C:\Users\LENOVO\Videos\MusicApp final\MusicApp final\JamSess\obj\Debug\JamSess.frmPlaylistPage.resources
+C:\Users\LENOVO\Videos\MusicApp final\MusicApp final\JamSess\obj\Debug\JamSess.frmSignUpPage.resources
+C:\Users\LENOVO\Videos\MusicApp final\MusicApp final\JamSess\obj\Debug\JamSess.Properties.Resources.resources
+C:\Users\LENOVO\Videos\MusicApp final\MusicApp final\JamSess\obj\Debug\JamSess.frmUploadSong.resources
+C:\Users\LENOVO\Videos\MusicApp final\MusicApp final\JamSess\obj\Debug\JamSess.csproj.GenerateResource.cache
+C:\Users\LENOVO\Videos\MusicApp final\MusicApp final\JamSess\obj\Debug\JamSess.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Videos\MusicApp final\MusicApp final\JamSess\obj\Debug\JamSess.exe
+C:\Users\LENOVO\Videos\MusicApp final\MusicApp final\JamSess\obj\Debug\JamSess.pdb
+C:\Users\LENOVO\Documents\MusicApp final\MusicApp final\JamSess\obj\Debug\JamSess.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\MusicApp final\MusicApp final\JamSess\obj\Debug\Interop.WMPLib.dll
+C:\Users\LENOVO\Documents\MusicApp final\MusicApp final\JamSess\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\LENOVO\Documents\MusicApp final\MusicApp final\JamSess\obj\Debug\JamSess.csproj.ResolveComReference.cache
+C:\Users\LENOVO\Documents\MusicApp final\MusicApp final\JamSess\obj\Debug\JamSess.exe
+C:\Users\LENOVO\Documents\MusicApp final\MusicApp final\JamSess\obj\Debug\JamSess.pdb
+C:\Users\LENOVO\Documents\MusicApp final\MusicApp final\JamSess\bin\Debug\JamSess.exe.config
+C:\Users\LENOVO\Documents\MusicApp final\MusicApp final\JamSess\bin\Debug\JamSess.exe
+C:\Users\LENOVO\Documents\MusicApp final\MusicApp final\JamSess\bin\Debug\JamSess.pdb
+C:\Users\LENOVO\Documents\MusicApp final\MusicApp final\JamSess\bin\Debug\Interop.WMPLib.dll
+C:\Users\LENOVO\Documents\MusicApp final\MusicApp final\JamSess\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\LENOVO\Documents\MusicApp final\MusicApp final\JamSess\obj\Debug\JamSess.frmLoginPage.resources
+C:\Users\LENOVO\Documents\MusicApp final\MusicApp final\JamSess\obj\Debug\JamSess.frmHomePage.resources
+C:\Users\LENOVO\Documents\MusicApp final\MusicApp final\JamSess\obj\Debug\JamSess.frmPlaylistPage.resources
+C:\Users\LENOVO\Documents\MusicApp final\MusicApp final\JamSess\obj\Debug\JamSess.frmSignUpPage.resources
+C:\Users\LENOVO\Documents\MusicApp final\MusicApp final\JamSess\obj\Debug\JamSess.Properties.Resources.resources
+C:\Users\LENOVO\Documents\MusicApp final\MusicApp final\JamSess\obj\Debug\JamSess.frmUploadSong.resources
+C:\Users\LENOVO\Documents\MusicApp final\MusicApp final\JamSess\obj\Debug\JamSess.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\MusicApp final\MusicApp final\JamSess\obj\Debug\JamSess.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\MusicApp final (For Presentation)\MusicApp final\JamSess\bin\Debug\JamSess.exe.config
+C:\Users\LENOVO\Documents\MusicApp final (For Presentation)\MusicApp final\JamSess\bin\Debug\JamSess.exe
+C:\Users\LENOVO\Documents\MusicApp final (For Presentation)\MusicApp final\JamSess\bin\Debug\JamSess.pdb
+C:\Users\LENOVO\Documents\MusicApp final (For Presentation)\MusicApp final\JamSess\bin\Debug\Interop.WMPLib.dll
+C:\Users\LENOVO\Documents\MusicApp final (For Presentation)\MusicApp final\JamSess\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\LENOVO\Documents\MusicApp final (For Presentation)\MusicApp final\JamSess\obj\Debug\JamSess.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\MusicApp final (For Presentation)\MusicApp final\JamSess\obj\Debug\Interop.WMPLib.dll
+C:\Users\LENOVO\Documents\MusicApp final (For Presentation)\MusicApp final\JamSess\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\LENOVO\Documents\MusicApp final (For Presentation)\MusicApp final\JamSess\obj\Debug\JamSess.csproj.ResolveComReference.cache
+C:\Users\LENOVO\Documents\MusicApp final (For Presentation)\MusicApp final\JamSess\obj\Debug\JamSess.frmLoginPage.resources
+C:\Users\LENOVO\Documents\MusicApp final (For Presentation)\MusicApp final\JamSess\obj\Debug\JamSess.frmHomePage.resources
+C:\Users\LENOVO\Documents\MusicApp final (For Presentation)\MusicApp final\JamSess\obj\Debug\JamSess.frmPlaylistPage.resources
+C:\Users\LENOVO\Documents\MusicApp final (For Presentation)\MusicApp final\JamSess\obj\Debug\JamSess.frmSignUpPage.resources
+C:\Users\LENOVO\Documents\MusicApp final (For Presentation)\MusicApp final\JamSess\obj\Debug\JamSess.Properties.Resources.resources
+C:\Users\LENOVO\Documents\MusicApp final (For Presentation)\MusicApp final\JamSess\obj\Debug\JamSess.frmUploadSong.resources
+C:\Users\LENOVO\Documents\MusicApp final (For Presentation)\MusicApp final\JamSess\obj\Debug\JamSess.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\MusicApp final (For Presentation)\MusicApp final\JamSess\obj\Debug\JamSess.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\MusicApp final (For Presentation)\MusicApp final\JamSess\obj\Debug\JamSess.exe
+C:\Users\LENOVO\Documents\MusicApp final (For Presentation)\MusicApp final\JamSess\obj\Debug\JamSess.pdb
