@@ -1,0 +1,30 @@
+C:\Users\Jordan\source\repos\2026-INF154-INF164\Prac7B\bin\Debug\Prac7 - Memo.exe.config
+C:\Users\Jordan\source\repos\2026-INF154-INF164\Prac7B\bin\Debug\Prac7 - Memo.exe
+C:\Users\Jordan\source\repos\2026-INF154-INF164\Prac7B\bin\Debug\Prac7 - Memo.pdb
+C:\Users\Jordan\source\repos\2026-INF154-INF164\Prac7B\obj\Debug\Prac7B.csproj.AssemblyReference.cache
+C:\Users\Jordan\source\repos\2026-INF154-INF164\Prac7B\obj\Debug\Prac7___Memo.Properties.Resources.resources
+C:\Users\Jordan\source\repos\2026-INF154-INF164\Prac7B\obj\Debug\Prac7B.csproj.GenerateResource.cache
+C:\Users\Jordan\source\repos\2026-INF154-INF164\Prac7B\obj\Debug\Prac7B.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\source\repos\2026-INF154-INF164\Prac7B\obj\Debug\Prac7 - Memo.exe
+C:\Users\Jordan\source\repos\2026-INF154-INF164\Prac7B\obj\Debug\Prac7 - Memo.pdb
+C:\Users\Jordan\source\repos\2026-INF154-INF164\Prac7B\obj\Debug\Prac7B.Form1.resources
+C:\Users\u20557303\Downloads\Prac7B_Incomplete\Prac7B\bin\Debug\Prac7 - Memo.exe.config
+C:\Users\u20557303\Downloads\Prac7B_Incomplete\Prac7B\bin\Debug\Prac7 - Memo.exe
+C:\Users\u20557303\Downloads\Prac7B_Incomplete\Prac7B\bin\Debug\Prac7 - Memo.pdb
+C:\Users\u20557303\Downloads\Prac7B_Incomplete\Prac7B\obj\Debug\Prac7B.csproj.AssemblyReference.cache
+C:\Users\u20557303\Downloads\Prac7B_Incomplete\Prac7B\obj\Debug\Prac7B.Form1.resources
+C:\Users\u20557303\Downloads\Prac7B_Incomplete\Prac7B\obj\Debug\Prac7___Memo.Properties.Resources.resources
+C:\Users\u20557303\Downloads\Prac7B_Incomplete\Prac7B\obj\Debug\Prac7B.csproj.GenerateResource.cache
+C:\Users\u20557303\Downloads\Prac7B_Incomplete\Prac7B\obj\Debug\Prac7B.csproj.CoreCompileInputs.cache
+C:\Users\u20557303\Downloads\Prac7B_Incomplete\Prac7B\obj\Debug\Prac7 - Memo.exe
+C:\Users\u20557303\Downloads\Prac7B_Incomplete\Prac7B\obj\Debug\Prac7 - Memo.pdb
+C:\Users\u20557303\Downloads\Prac7B_Incomplete\u20557303_Prac7B\bin\Debug\Prac7 - Memo.exe.config
+C:\Users\u20557303\Downloads\Prac7B_Incomplete\u20557303_Prac7B\bin\Debug\Prac7 - Memo.exe
+C:\Users\u20557303\Downloads\Prac7B_Incomplete\u20557303_Prac7B\bin\Debug\Prac7 - Memo.pdb
+C:\Users\u20557303\Downloads\Prac7B_Incomplete\u20557303_Prac7B\obj\Debug\Prac7B.csproj.AssemblyReference.cache
+C:\Users\u20557303\Downloads\Prac7B_Incomplete\u20557303_Prac7B\obj\Debug\Prac7B.Form1.resources
+C:\Users\u20557303\Downloads\Prac7B_Incomplete\u20557303_Prac7B\obj\Debug\Prac7___Memo.Properties.Resources.resources
+C:\Users\u20557303\Downloads\Prac7B_Incomplete\u20557303_Prac7B\obj\Debug\Prac7B.csproj.GenerateResource.cache
+C:\Users\u20557303\Downloads\Prac7B_Incomplete\u20557303_Prac7B\obj\Debug\Prac7B.csproj.CoreCompileInputs.cache
+C:\Users\u20557303\Downloads\Prac7B_Incomplete\u20557303_Prac7B\obj\Debug\Prac7 - Memo.exe
+C:\Users\u20557303\Downloads\Prac7B_Incomplete\u20557303_Prac7B\obj\Debug\Prac7 - Memo.pdb

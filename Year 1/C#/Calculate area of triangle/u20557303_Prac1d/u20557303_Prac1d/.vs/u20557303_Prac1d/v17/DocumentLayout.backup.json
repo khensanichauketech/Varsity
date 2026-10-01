@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\Khen\\Practical 1d\\u20557303_Prac1d\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD835191-87C8-41D8-8EBA-AB3FBA69A891}|u20557303_Prac1d\\u20557303_Prac1d.csproj|k:\\khen\\practical 1d\\u20557303_prac1d\\u20557303_prac1d\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD835191-87C8-41D8-8EBA-AB3FBA69A891}|u20557303_Prac1d\\u20557303_Prac1d.csproj|solutionrelative:u20557303_prac1d\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD835191-87C8-41D8-8EBA-AB3FBA69A891}|u20557303_Prac1d\\u20557303_Prac1d.csproj|k:\\khen\\practical 1d\\u20557303_prac1d\\u20557303_prac1d\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD835191-87C8-41D8-8EBA-AB3FBA69A891}|u20557303_Prac1d\\u20557303_Prac1d.csproj|solutionrelative:u20557303_prac1d\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "K:\\Khen\\Practical 1d\\u20557303_Prac1d\\u20557303_Prac1d\\Form1.cs",
+              "RelativeDocumentMoniker": "u20557303_Prac1d\\Form1.cs",
+              "ToolTip": "K:\\Khen\\Practical 1d\\u20557303_Prac1d\\u20557303_Prac1d\\Form1.cs",
+              "RelativeToolTip": "u20557303_Prac1d\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAADAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T11:37:19.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "K:\\Khen\\Practical 1d\\u20557303_Prac1d\\u20557303_Prac1d\\Form1.cs",
+              "RelativeDocumentMoniker": "u20557303_Prac1d\\Form1.cs",
+              "ToolTip": "K:\\Khen\\Practical 1d\\u20557303_Prac1d\\u20557303_Prac1d\\Form1.cs [Design]",
+              "RelativeToolTip": "u20557303_Prac1d\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T11:28:52.844Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+D:\INF154\Semester 2\Prac1\u20557303_Prac1\bin\Debug\u20557303_Prac1.exe.config
+D:\INF154\Semester 2\Prac1\u20557303_Prac1\bin\Debug\u20557303_Prac1.exe
+D:\INF154\Semester 2\Prac1\u20557303_Prac1\bin\Debug\u20557303_Prac1.pdb
+D:\INF154\Semester 2\Prac1\u20557303_Prac1\obj\Debug\u20557303_Prac1.csproj.AssemblyReference.cache
+D:\INF154\Semester 2\Prac1\u20557303_Prac1\obj\Debug\u20557303_Prac1.Form1.resources
+D:\INF154\Semester 2\Prac1\u20557303_Prac1\obj\Debug\u20557303_Prac1.Properties.Resources.resources
+D:\INF154\Semester 2\Prac1\u20557303_Prac1\obj\Debug\u20557303_Prac1.csproj.GenerateResource.cache
+D:\INF154\Semester 2\Prac1\u20557303_Prac1\obj\Debug\u20557303_Prac1.csproj.CoreCompileInputs.cache
+D:\INF154\Semester 2\Prac1\u20557303_Prac1\obj\Debug\u20557303_Prac1.exe
+D:\INF154\Semester 2\Prac1\u20557303_Prac1\obj\Debug\u20557303_Prac1.pdb

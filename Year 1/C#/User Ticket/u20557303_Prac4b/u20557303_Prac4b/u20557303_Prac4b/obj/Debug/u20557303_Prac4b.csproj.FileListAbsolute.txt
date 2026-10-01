@@ -1,0 +1,11 @@
+D:\INF154\Practical 4\u20557303_Prac4b\u20557303_Prac4b\bin\Debug\u20557303_Prac4b.exe.config
+D:\INF154\Practical 4\u20557303_Prac4b\u20557303_Prac4b\bin\Debug\u20557303_Prac4b.exe
+D:\INF154\Practical 4\u20557303_Prac4b\u20557303_Prac4b\bin\Debug\u20557303_Prac4b.pdb
+D:\INF154\Practical 4\u20557303_Prac4b\u20557303_Prac4b\obj\Debug\u20557303_Prac4b.csproj.AssemblyReference.cache
+D:\INF154\Practical 4\u20557303_Prac4b\u20557303_Prac4b\obj\Debug\u20557303_Prac4b.frmUserTicket.resources
+D:\INF154\Practical 4\u20557303_Prac4b\u20557303_Prac4b\obj\Debug\u20557303_Prac4b.Properties.Resources.resources
+D:\INF154\Practical 4\u20557303_Prac4b\u20557303_Prac4b\obj\Debug\u20557303_Prac4b.csproj.GenerateResource.cache
+D:\INF154\Practical 4\u20557303_Prac4b\u20557303_Prac4b\obj\Debug\u20557303_Prac4b.csproj.CoreCompileInputs.cache
+D:\INF154\Practical 4\u20557303_Prac4b\u20557303_Prac4b\obj\Debug\u20557303_Prac4b.exe
+D:\INF154\Practical 4\u20557303_Prac4b\u20557303_Prac4b\obj\Debug\u20557303_Prac4b.pdb
+D:\INF154\Practical 4\u20557303_Prac4b\u20557303_Prac4b\obj\Debug\u20557303_Prac4b.exe.config

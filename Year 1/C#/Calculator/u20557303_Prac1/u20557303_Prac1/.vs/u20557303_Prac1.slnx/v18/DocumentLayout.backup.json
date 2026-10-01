@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\INF154\\Semester 2\\Prac1\\u20557303_Prac1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9322E5C6-7B3E-4310-A083-1D94580872D3}|u20557303_Prac1.csproj|d:\\inf154\\semester 2\\prac1\\u20557303_prac1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9322E5C6-7B3E-4310-A083-1D94580872D3}|u20557303_Prac1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9322E5C6-7B3E-4310-A083-1D94580872D3}|u20557303_Prac1.csproj|D:\\INF154\\Semester 2\\Prac1\\u20557303_Prac1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9322E5C6-7B3E-4310-A083-1D94580872D3}|u20557303_Prac1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\INF154\\Semester 2\\Prac1\\u20557303_Prac1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\INF154\\Semester 2\\Prac1\\u20557303_Prac1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwFMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T12:55:06.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\INF154\\Semester 2\\Prac1\\u20557303_Prac1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\INF154\\Semester 2\\Prac1\\u20557303_Prac1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T12:37:29.656Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+D:\INF154\Practical 3\3c\u20557303_Prac3c\u20557303_Prac3c\bin\Debug\u20557303_Prac3c.exe.config
+D:\INF154\Practical 3\3c\u20557303_Prac3c\u20557303_Prac3c\bin\Debug\u20557303_Prac3c.exe
+D:\INF154\Practical 3\3c\u20557303_Prac3c\u20557303_Prac3c\bin\Debug\u20557303_Prac3c.pdb
+D:\INF154\Practical 3\3c\u20557303_Prac3c\u20557303_Prac3c\obj\Debug\u20557303_Prac3c.csproj.AssemblyReference.cache
+D:\INF154\Practical 3\3c\u20557303_Prac3c\u20557303_Prac3c\obj\Debug\u20557303_Prac3c.frmGymFeeCalculator.resources
+D:\INF154\Practical 3\3c\u20557303_Prac3c\u20557303_Prac3c\obj\Debug\u20557303_Prac3c.Properties.Resources.resources
+D:\INF154\Practical 3\3c\u20557303_Prac3c\u20557303_Prac3c\obj\Debug\u20557303_Prac3c.csproj.GenerateResource.cache
+D:\INF154\Practical 3\3c\u20557303_Prac3c\u20557303_Prac3c\obj\Debug\u20557303_Prac3c.csproj.CoreCompileInputs.cache
+D:\INF154\Practical 3\3c\u20557303_Prac3c\u20557303_Prac3c\obj\Debug\u20557303_Prac3c.exe
+D:\INF154\Practical 3\3c\u20557303_Prac3c\u20557303_Prac3c\obj\Debug\u20557303_Prac3c.pdb

@@ -1,0 +1,10 @@
+C:\Users\Jordan\source\repos\2026-INF154-INF164\Prac7 - Memo\bin\Debug\Prac7 - Memo.exe.config
+C:\Users\Jordan\source\repos\2026-INF154-INF164\Prac7 - Memo\bin\Debug\Prac7 - Memo.exe
+C:\Users\Jordan\source\repos\2026-INF154-INF164\Prac7 - Memo\bin\Debug\Prac7 - Memo.pdb
+C:\Users\Jordan\source\repos\2026-INF154-INF164\Prac7 - Memo\obj\Debug\Prac7 - Memo.csproj.AssemblyReference.cache
+C:\Users\Jordan\source\repos\2026-INF154-INF164\Prac7 - Memo\obj\Debug\Prac7___Memo.Form1.resources
+C:\Users\Jordan\source\repos\2026-INF154-INF164\Prac7 - Memo\obj\Debug\Prac7___Memo.Properties.Resources.resources
+C:\Users\Jordan\source\repos\2026-INF154-INF164\Prac7 - Memo\obj\Debug\Prac7 - Memo.csproj.GenerateResource.cache
+C:\Users\Jordan\source\repos\2026-INF154-INF164\Prac7 - Memo\obj\Debug\Prac7 - Memo.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\source\repos\2026-INF154-INF164\Prac7 - Memo\obj\Debug\Prac7 - Memo.exe
+C:\Users\Jordan\source\repos\2026-INF154-INF164\Prac7 - Memo\obj\Debug\Prac7 - Memo.pdb

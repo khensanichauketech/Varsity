@@ -1,0 +1,20 @@
+C:\Users\Jordan\source\repos\2026-INF154-INF164\Prac5c\bin\Debug\Prac5c.exe.config
+C:\Users\Jordan\source\repos\2026-INF154-INF164\Prac5c\bin\Debug\Prac5c.exe
+C:\Users\Jordan\source\repos\2026-INF154-INF164\Prac5c\bin\Debug\Prac5c.pdb
+C:\Users\Jordan\source\repos\2026-INF154-INF164\Prac5c\obj\Debug\Prac5c.csproj.AssemblyReference.cache
+C:\Users\Jordan\source\repos\2026-INF154-INF164\Prac5c\obj\Debug\Prac5c.Form1.resources
+C:\Users\Jordan\source\repos\2026-INF154-INF164\Prac5c\obj\Debug\Prac5c.Properties.Resources.resources
+C:\Users\Jordan\source\repos\2026-INF154-INF164\Prac5c\obj\Debug\Prac5c.csproj.GenerateResource.cache
+C:\Users\Jordan\source\repos\2026-INF154-INF164\Prac5c\obj\Debug\Prac5c.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\source\repos\2026-INF154-INF164\Prac5c\obj\Debug\Prac5c.exe
+C:\Users\Jordan\source\repos\2026-INF154-INF164\Prac5c\obj\Debug\Prac5c.pdb
+C:\Users\User\Desktop\UP\INF 154\uStudentNumber_Prac5c\Prac5c\bin\Debug\Prac5c.exe.config
+C:\Users\User\Desktop\UP\INF 154\uStudentNumber_Prac5c\Prac5c\bin\Debug\Prac5c.exe
+C:\Users\User\Desktop\UP\INF 154\uStudentNumber_Prac5c\Prac5c\bin\Debug\Prac5c.pdb
+C:\Users\User\Desktop\UP\INF 154\uStudentNumber_Prac5c\Prac5c\obj\Debug\Prac5c.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\UP\INF 154\uStudentNumber_Prac5c\Prac5c\obj\Debug\Prac5c.Properties.Resources.resources
+C:\Users\User\Desktop\UP\INF 154\uStudentNumber_Prac5c\Prac5c\obj\Debug\Prac5c.csproj.GenerateResource.cache
+C:\Users\User\Desktop\UP\INF 154\uStudentNumber_Prac5c\Prac5c\obj\Debug\Prac5c.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UP\INF 154\uStudentNumber_Prac5c\Prac5c\obj\Debug\Prac5c.exe
+C:\Users\User\Desktop\UP\INF 154\uStudentNumber_Prac5c\Prac5c\obj\Debug\Prac5c.pdb
+C:\Users\User\Desktop\UP\INF 154\uStudentNumber_Prac5c\Prac5c\obj\Debug\Prac5c.u20557303.resources

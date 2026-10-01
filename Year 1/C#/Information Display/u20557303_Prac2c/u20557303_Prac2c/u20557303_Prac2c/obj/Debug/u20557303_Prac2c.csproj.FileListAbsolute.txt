@@ -1,0 +1,10 @@
+D:\INF154\Practical 2\u20557303_Prac2c\u20557303_Prac2c\bin\Debug\u20557303_Prac2c.exe.config
+D:\INF154\Practical 2\u20557303_Prac2c\u20557303_Prac2c\bin\Debug\u20557303_Prac2c.exe
+D:\INF154\Practical 2\u20557303_Prac2c\u20557303_Prac2c\bin\Debug\u20557303_Prac2c.pdb
+D:\INF154\Practical 2\u20557303_Prac2c\u20557303_Prac2c\obj\Debug\u20557303_Prac2c.csproj.AssemblyReference.cache
+D:\INF154\Practical 2\u20557303_Prac2c\u20557303_Prac2c\obj\Debug\u20557303_Prac2c.frmInformationDisplay.resources
+D:\INF154\Practical 2\u20557303_Prac2c\u20557303_Prac2c\obj\Debug\u20557303_Prac2c.Properties.Resources.resources
+D:\INF154\Practical 2\u20557303_Prac2c\u20557303_Prac2c\obj\Debug\u20557303_Prac2c.csproj.GenerateResource.cache
+D:\INF154\Practical 2\u20557303_Prac2c\u20557303_Prac2c\obj\Debug\u20557303_Prac2c.csproj.CoreCompileInputs.cache
+D:\INF154\Practical 2\u20557303_Prac2c\u20557303_Prac2c\obj\Debug\u20557303_Prac2c.exe
+D:\INF154\Practical 2\u20557303_Prac2c\u20557303_Prac2c\obj\Debug\u20557303_Prac2c.pdb

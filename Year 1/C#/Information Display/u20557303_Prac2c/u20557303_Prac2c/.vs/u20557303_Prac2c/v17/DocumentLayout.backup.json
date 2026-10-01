@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\INF154\\Practical 2\\u20557303_Prac2c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{400DDB91-3CA0-4676-9F45-623AF906C003}|u20557303_Prac2c\\u20557303_Prac2c.csproj|d:\\inf154\\practical 2\\u20557303_prac2c\\u20557303_prac2c\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400DDB91-3CA0-4676-9F45-623AF906C003}|u20557303_Prac2c\\u20557303_Prac2c.csproj|solutionrelative:u20557303_prac2c\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400DDB91-3CA0-4676-9F45-623AF906C003}|u20557303_Prac2c\\u20557303_Prac2c.csproj|d:\\inf154\\practical 2\\u20557303_prac2c\\u20557303_prac2c\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{400DDB91-3CA0-4676-9F45-623AF906C003}|u20557303_Prac2c\\u20557303_Prac2c.csproj|solutionrelative:u20557303_prac2c\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\INF154\\Practical 2\\u20557303_Prac2c\\u20557303_Prac2c\\Form1.cs",
+              "RelativeDocumentMoniker": "u20557303_Prac2c\\Form1.cs",
+              "ToolTip": "D:\\INF154\\Practical 2\\u20557303_Prac2c\\u20557303_Prac2c\\Form1.cs",
+              "RelativeToolTip": "u20557303_Prac2c\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T12:19:55.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\INF154\\Practical 2\\u20557303_Prac2c\\u20557303_Prac2c\\Form1.cs",
+              "RelativeDocumentMoniker": "u20557303_Prac2c\\Form1.cs",
+              "ToolTip": "D:\\INF154\\Practical 2\\u20557303_Prac2c\\u20557303_Prac2c\\Form1.cs [Design]",
+              "RelativeToolTip": "u20557303_Prac2c\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T12:04:22.152Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

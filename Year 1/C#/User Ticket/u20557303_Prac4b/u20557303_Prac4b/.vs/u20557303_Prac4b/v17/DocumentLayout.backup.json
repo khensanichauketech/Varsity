@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\INF154\\Practical 4\\u20557303_Prac4b\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55D6A61C-CAFA-4BE3-B0E0-DCD780AE213C}|u20557303_Prac4b\\u20557303_Prac4b.csproj|d:\\inf154\\practical 4\\u20557303_prac4b\\u20557303_prac4b\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D6A61C-CAFA-4BE3-B0E0-DCD780AE213C}|u20557303_Prac4b\\u20557303_Prac4b.csproj|solutionrelative:u20557303_prac4b\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D6A61C-CAFA-4BE3-B0E0-DCD780AE213C}|u20557303_Prac4b\\u20557303_Prac4b.csproj|D:\\INF154\\Practical 4\\u20557303_Prac4b\\u20557303_prac4b\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55D6A61C-CAFA-4BE3-B0E0-DCD780AE213C}|u20557303_Prac4b\\u20557303_Prac4b.csproj|solutionrelative:u20557303_prac4b\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D6A61C-CAFA-4BE3-B0E0-DCD780AE213C}|u20557303_Prac4b\\u20557303_Prac4b.csproj|D:\\INF154\\Practical 4\\u20557303_Prac4b\\u20557303_prac4b\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D6A61C-CAFA-4BE3-B0E0-DCD780AE213C}|u20557303_Prac4b\\u20557303_Prac4b.csproj|solutionrelative:u20557303_prac4b\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\INF154\\Practical 4\\u20557303_Prac4b\\u20557303_Prac4b\\Form1.cs",
+              "RelativeDocumentMoniker": "u20557303_Prac4b\\Form1.cs",
+              "ToolTip": "D:\\INF154\\Practical 4\\u20557303_Prac4b\\u20557303_Prac4b\\Form1.cs",
+              "RelativeToolTip": "u20557303_Prac4b\\Form1.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADwv04AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T06:50:44.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\INF154\\Practical 4\\u20557303_Prac4b\\u20557303_Prac4b\\Form1.cs",
+              "RelativeDocumentMoniker": "u20557303_Prac4b\\Form1.cs",
+              "ToolTip": "D:\\INF154\\Practical 4\\u20557303_Prac4b\\u20557303_Prac4b\\Form1.cs [Design]",
+              "RelativeToolTip": "u20557303_Prac4b\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T06:44:24.645Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\INF154\\Practical 4\\u20557303_Prac4b\\u20557303_Prac4b\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "u20557303_Prac4b\\Form1.Designer.cs",
+              "ToolTip": "D:\\INF154\\Practical 4\\u20557303_Prac4b\\u20557303_Prac4b\\Form1.Designer.cs",
+              "RelativeToolTip": "u20557303_Prac4b\\Form1.Designer.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T06:50:55.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+K:\Khen\Practical 1d\u20557303_Prac1d\u20557303_Prac1d\bin\Debug\u20557303_Prac1d.exe.config
+K:\Khen\Practical 1d\u20557303_Prac1d\u20557303_Prac1d\bin\Debug\u20557303_Prac1d.exe
+K:\Khen\Practical 1d\u20557303_Prac1d\u20557303_Prac1d\bin\Debug\u20557303_Prac1d.pdb
+K:\Khen\Practical 1d\u20557303_Prac1d\u20557303_Prac1d\obj\Debug\u20557303_Prac1d.csproj.AssemblyReference.cache
+K:\Khen\Practical 1d\u20557303_Prac1d\u20557303_Prac1d\obj\Debug\u20557303_Prac1d.Form1.resources
+K:\Khen\Practical 1d\u20557303_Prac1d\u20557303_Prac1d\obj\Debug\u20557303_Prac1d.Properties.Resources.resources
+K:\Khen\Practical 1d\u20557303_Prac1d\u20557303_Prac1d\obj\Debug\u20557303_Prac1d.csproj.GenerateResource.cache
+K:\Khen\Practical 1d\u20557303_Prac1d\u20557303_Prac1d\obj\Debug\u20557303_Prac1d.csproj.CoreCompileInputs.cache
+K:\Khen\Practical 1d\u20557303_Prac1d\u20557303_Prac1d\obj\Debug\u20557303_Prac1d.exe
+K:\Khen\Practical 1d\u20557303_Prac1d\u20557303_Prac1d\obj\Debug\u20557303_Prac1d.pdb
