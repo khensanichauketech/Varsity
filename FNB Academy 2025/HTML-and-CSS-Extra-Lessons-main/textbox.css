@@ -1,0 +1,215 @@
+/*===================== Google Search Bar ===================*/
+
+.google-bar {
+    width: 400px;
+    height: 30px;
+    font-size: 15px;
+    margin-left: 180px;
+    margin-bottom: 80px;
+    padding-left: 14px;
+    border-radius: 20px;
+    border-width: 0px;
+    border-color: rgba(0, 0, 0, 0.1);
+    box-shadow: 2px 1px 5px rgba(0, 0, 0, 0.2);
+    
+}
+
+.google-logo {
+    width: 300px;
+    display: block;
+    margin-left: 230px;
+}
+
+/*===================== Sign Up Form ===================*/
+
+.name {
+    width: 110px;
+    margin-bottom: 10px;
+    height: 30px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-family: arial;
+    border-radius: 6px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(200, 200, 200);
+
+}
+
+.surname {
+    width: 110px;
+    margin-bottom: 10px;
+    height: 30px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-family: arial;
+    border-radius: 6px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(200, 200, 200);
+}
+
+.email {
+    display: block;
+    width: 250px;
+    margin-bottom: 10px;
+    height: 30px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-family: arial;
+    border-radius: 6px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(200, 200, 200);
+}
+
+.sign-up-button {
+    width: 277px;
+    height: 40px;
+    margin-bottom: 20px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    background-color: rgb(18, 101, 168);
+    color: white;
+    font-family: sans-serif;
+    font-weight: 600;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+/*===================== YouTube Install ===================*/
+
+.youtube-install {
+    display: block;
+    width: 360px;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    font-family: sans-serif;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-top: 0;
+    margin-bottom: 50px;
+    margin-left: 0;
+}
+
+.install {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 0;
+    margin-top: 18px;
+}
+
+.add {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+
+/*===================== Add Friend ===================*/
+.thumbnail {
+    width: 100%;
+    margin-bottom: 0;
+}
+
+.profile-name {
+    width: 300px;
+    font-weight: bold;
+    font-size: 16px;
+    font-family: sans-serif;
+    margin-bottom: 0;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+
+.profile-friends {
+    margin-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    padding-left: 10px;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.profile-preview {
+    width: 200px;
+    margin-right: 10px;
+    margin-bottom: 100px;
+    border-color: rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 0px 7px rgba(0, 0, 0, 0.3);
+    border-style: solid;
+    border-width: 0.3px;
+}
+
+.add-friend {
+    width: 110px;
+    height: 38px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    background-color: rgb(18, 101, 168);
+    color: white;
+    font-family: sans-serif;
+    font-weight: 600;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/*===================== YouTube Rows ===================*/
+
+.youtube-block {
+    display: block;
+    margin-bottom: 100px;
+}
+
+.image {
+    width: 280px;
+    box-shadow: 0px 0px 8px black;
+}
+
+.image-block {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.text-block {
+    display: inline-block;
+}
+
+.yout,
+.you {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.yout {
+    width: 300px;
+    font-family: Roboto, Arial;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    margin-bottom: 12px;
+}
+
+.you {
+    margin-bottom: 6px;
+    color: rgb(96, 96, 96);
+}
+
+.text-block {
+    margin-left: 8px;
+}
